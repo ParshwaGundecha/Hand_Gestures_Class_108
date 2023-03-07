@@ -1,1 +1,2 @@
-# Hand_Gestures_Class_108
+# PRO-C108-Project-Template
+project template for c108
